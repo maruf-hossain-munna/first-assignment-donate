@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 60px;
+    font-weight: bold;
+    
+
+
+}
+p{
+    font-size: 17px;
+    line-height: 1.6;
+    color: black;
+    opacity: 0.7;
+    margin-top: 20px;
+    font-weight: bold;
+    
+    
+
+}
+h2{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+a{
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    background-color: tomato;
+    padding: 15px 30px;
+     border-radius: 10px;
+}
+
+#header-sec{
+    padding: 150px 275px;
+    background-image: url(donate-today/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+}
+.header-div{
+    text-align: center;
+    
+}
+.header-div h1{
+    color: white;
+        font-weight: bold;
+        padding-bottom: 20px;
+
+}
+
+.header-div p{
+    color: white;
+        line-height: 1.6;
+        margin-bottom: 40px;
+
+}
+
+
+.dnt-tdy{
+    margin: 100px 350px 100px 350px;
+    text-align: center;
+}
+
+.tk{
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.one-h{
+    width: 18%;
+    background-color: aqua;
+    padding: 40px 20px;
+    margin-left: 2%;
+    border-radius: 5px;
+    
+}
+.one-h h2{
+    font-size: 25px;
+    font-weight: bolder;
+    opacity: 0.7;
+}
+.another-cls{
+    color: red;
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: pink;
+}
+
+.form{
+
+}
+.frm{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-bottom: 40px;
+    
+}
+
+.donate-plan{
+    margin: 0 130px 50px 130px;
+}
+.our-plan{
+    margin: 20px 300px 50px 300px;
+    text-align: center;
+
+}
+
+.card{
+    display: flex;
+
+}
+.food{
+    width: 30%;
+    background-color: aquamarine;
+    padding: 40px 15px;
+    border-radius: 10px;
+}
+.icon{
+    padding-bottom: 20px;
+}
+.family{
+    width: 30%;
+     background-color: rgb(216, 102, 102);
+     padding: 40px 15px;
+     margin-left: 3%;
+     margin-right: 3%;
+    border-radius: 10px;
+    
+}
+.edication{
+    width: 30%;
+     background-color: burlywood;
+    padding: 40px 15px;
+    border-radius: 10px;
+}
+
+.contribute{
+    display: flex;
+    margin: 100px 130px;
+}
+.left-div{
+    width: 40%;
+    margin-right: 10%;
+    padding-top: 20px;
+
+}
+.left-div p{
+    margin-bottom: 40px;
+
+}
+
+
+.donate{
+    margin: 100px 350px;
+    text-align: center;
+}
+.clr-div{
+    padding: 60px 100px;
+    background-color: pink;
+    margin-top: 50px;
+}
+.gmail{
+    padding: 10px 10px;
+    border: none;
+        font-size: 17px;
+        font-weight: bold;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+
+}
+.subs{
+    padding: 10px 30px;
+    color: white;
+    background-color: tomato;
+    border: none;
+    font-size: 17px;
+    font-weight: bold;
+    border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+    margin-left: -15px;
+}
+
+
+footer{
+    background-color: black;
+    padding: 50px;
+    text-align: center;
+}
+footer h2{
+    color: tomato;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+}
+footer p{
+    color: white;
+}
